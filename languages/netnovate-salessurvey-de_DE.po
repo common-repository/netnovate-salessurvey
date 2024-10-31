@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: salessurvey Auktions Plugin für eBay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-14 09:29+0000\n"
+"PO-Revision-Date: 2019-05-14 09:37+0000\n"
+"Last-Translator: admin <th@netnovate.com>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: inc/backend.php:12
+msgid "salessurvey Auctions Plugin for eBay"
+msgstr "salessurvey Auktions Plugin für eBay"
+
+#: inc/backend.php:16
+msgid "Germany"
+msgstr "Deutschland"
+
+#: inc/backend.php:18
+msgid "Austria"
+msgstr "Österreich"
+
+#: inc/backend.php:19
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: inc/backend.php:33
+msgid "Auctions & Feedback"
+msgstr "Auktionen & Bewertungen"
+
+#: inc/backend.php:34
+msgid "Auctions"
+msgstr "Auktionen"
+
+#: inc/backend.php:35
+msgid "Feedback"
+msgstr "Bewertungen"
+
+#: inc/backend.php:38
+msgid "Small"
+msgstr "Klein"
+
+#: inc/backend.php:39
+msgid "Medium"
+msgstr "Mittel"
+
+#: inc/backend.php:40
+msgid "Large"
+msgstr "Groß"
+
+#: inc/backend.php:41
+msgid "Very Large"
+msgstr "Sehr Groß"
+
+#: inc/backend.php:44
+msgid "Items Ending First"
+msgstr "Bald endend"
+
+#: inc/backend.php:45
+msgid "Best Match"
+msgstr "Beste Ergebnisse"
+
+#: inc/backend.php:46
+msgid "New Items First"
+msgstr "Neu eingestellt"
+
+#: inc/backend.php:47
+msgid "Highest Price Items First"
+msgstr "Preis absteigend"
+
+#: inc/backend.php:48
+msgid "Lowest Price Items First"
+msgstr "Preis aufsteigend"
+
+#: inc/backend.php:85 inc/backend.php:305
+msgid "Please set <b>eBay Username</b> first"
+msgstr "Bitte zunächst <b>eBay Benutzernamen</b> eingeben."
+
+#: inc/backend.php:119 inc/backend.php:572 inc/backend.php:583
+msgid "salessurvey Auctions Plugin"
+msgstr "salessurvey Auktions Plugin"
+
+#: inc/backend.php:157 inc/backend.php:497 inc/widgets.php:124
+#: inc/widgets.php:300
+msgid "eBay Username"
+msgstr "eBay Benutzername"
+
+#: inc/backend.php:160
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: inc/backend.php:166
+msgid "Auctions Widgets"
+msgstr "Auktions Widgets"
+
+#: inc/backend.php:167
+msgid "Feedback-Badges"
+msgstr "Bewertungs-Badges"
+
+#: inc/backend.php:174
+msgid "Select Template:"
+msgstr "Template Auswahl:"
+
+#: inc/backend.php:178
+msgid "Shop-Widget"
+msgstr "Shop-Widget"
+
+#: inc/backend.php:182
+msgid "Item-Slider <br/>(horizontal)"
+msgstr "Auktions-Slider <br/>(horizontal)"
+
+#: inc/backend.php:186
+msgid "Item-Slider <br/>(vertical)"
+msgstr "Auktions-Slider <br/>(vertikal)"
+
+#: inc/backend.php:190
+msgid "Item-Gallery<br/>Widget <br/>"
+msgstr "Auktions-Gallerie<br/>Widget <br/>"
+
+#: inc/backend.php:196 inc/backend.php:319 inc/backend.php:334
+#: inc/backend.php:349 inc/backend.php:368 inc/backend.php:384
+#: inc/backend.php:399 inc/backend.php:414 inc/backend.php:434
+#: inc/backend.php:449 inc/backend.php:464
+msgid "Code:"
+msgstr "Code:"
+
+#: inc/backend.php:197
+msgid ""
+"Place the following code within the content editor to specify where the "
+"widget will be shown."
+msgstr ""
+"Bitte binden Sie den nachfolgenden Code oben im Editor an der Stelle ein, an "
+"dem das Auktions-Widget später angezeigt werden soll."
+
+#: inc/backend.php:201 inc/backend.php:324 inc/backend.php:339
+#: inc/backend.php:354 inc/backend.php:373 inc/backend.php:389
+#: inc/backend.php:404 inc/backend.php:419 inc/backend.php:439
+#: inc/backend.php:454 inc/backend.php:469
+msgid "Copy"
+msgstr "Kopieren"
+
+#: inc/backend.php:209
+msgid "Settings:"
+msgstr "Einstellungen:"
+
+#: inc/backend.php:213 inc/backend.php:498 inc/widgets.php:130
+msgid "eBay Website"
+msgstr "eBay Webseite"
+
+#: inc/backend.php:223
+msgid "This is the eBay website where your items are usually listed."
+msgstr ""
+"Wählen Sie hier die eBay-Webseite aus, auf der Ihre Artikel gelistet sind."
+
+#: inc/backend.php:227 inc/widgets.php:159
+msgid "Sort Order"
+msgstr "Artikel Sortieren nach"
+
+#: inc/backend.php:236
+msgid "Set sort order of displayed items here."
+msgstr ""
+"Legen Sie hier fest, in welcher Reihenfolge die Artikel angezeigt werden "
+"sollen."
+
+#: inc/backend.php:240
+msgid "Display"
+msgstr "Anzeige"
+
+#: inc/backend.php:252 inc/widgets.php:171
+msgid "Tile Size"
+msgstr "Kachelgröße"
+
+#: inc/backend.php:261
+msgid "Set size of item tiles."
+msgstr "Legen Sie hier die Bild- und Schriftgröße der Artikel fest."
+
+#: inc/backend.php:265 inc/widgets.php:183
+msgid "Widget Height"
+msgstr "Widget Höhe"
+
+#: inc/backend.php:268
+msgid "Define display height of widget here"
+msgstr "Legen Sie hier die Höhe des Widgets in Pixel fest."
+
+#: inc/backend.php:272 inc/widgets.php:189
+msgid "Number of Items"
+msgstr "Anzahl Artikel"
+
+#: inc/backend.php:275
+msgid "Set the number of displayed items per page (max. 100)"
+msgstr ""
+"Legt die Anzahl der angezeigten Artikel (max. 100) innerhalb des Auktions-"
+"Widgets fest."
+
+#: inc/backend.php:279
+msgid "Frame"
+msgstr "Rahmen"
+
+#: inc/backend.php:285
+msgid "Framecolor"
+msgstr "Rahmenfarbe"
+
+#: inc/backend.php:291
+msgid "Refresh Preview"
+msgstr "Vorschau aktualisieren"
+
+#: inc/backend.php:296
+msgid "Preview:"
+msgstr "Vorschau:"
+
+#: inc/backend.php:311
+msgid ""
+"Please copy the code shown below each badge and paste it into content editor "
+"to that position where you want to show the badge."
+msgstr ""
+"Bitte binden Sie den nachfolgenden Code oben im Editor an der Stelle ein, an "
+"dem das Auktions-Widget später angezeigt werden soll."
+
+#: inc/backend.php:312
+msgid "Horizontal Banner"
+msgstr "Horizontal"
+
+#: inc/backend.php:361
+msgid "Squared"
+msgstr "Quadratisch"
+
+#: inc/backend.php:427
+msgid "Round"
+msgstr "Rund"
+
+#: inc/backend.php:496
+msgid "Global Settings"
+msgstr "Globale Einstellungen"
+
+#: inc/backend.php:506
+msgid "These values use to be default on every added widget"
+msgstr "Legen Sie hier globale Einstellungen fest."
+
+#: inc/backend.php:518
+msgid "EBAY-US"
+msgstr "EBAY-DE"
+
+#: inc/backend.php:527
+msgid "Please set your default eBay Website"
+msgstr ""
+"Legen Sie hier fest, welche eBay Webseite standardmäßig verwendet werden "
+"soll."
+
+#: inc/backend.php:543
+msgid "Set your eBay Username, this one is used by default in all widgets."
+msgstr ""
+"Setzen Sie hier Ihren eBay Benutzernamen, dieser wird als Standardwert für "
+"alle Widgets verwendet."
+
+#: inc/backend.php:560
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/backend.php:561
+msgid "Rate Plugin"
+msgstr "Plugin Bewerten"
+
+#: inc/backend.php:572
+msgid "salessurvey Auctions"
+msgstr "salessurvey Auktionen"
+
+#: inc/backend.php:584
+msgid ""
+"Please use the \"salessurvey auctions plugin\" box below content editor to "
+"add auctions- or feedback-widgets to your pages or posts."
+msgstr ""
+"Um Auktionen oder Bewertungen in Ihre Seiten oder Beiträge einzubinden, "
+"nutzen Sie bitte die \"salessurvey Auktions Plugin\" Box unterhalb des "
+"Editors auf jeder \"Beitrag/Seite bearbeiten\" Seite."
+
+#: inc/backend.php:585
+msgid ""
+"In case you want to add a widget into sidebar, please configure that under "
+"\"Appearance\" -> \"<a href=\"widgets.php\">Widgets</a>\"."
+msgstr ""
+"Wollen Sie jedoch ein Widget z.B. in die Sidebar einbinden, schauen Sie "
+"unter \"Design\" -> \"<a href=\"widgets.php\">Widgets</a>\" und fügen Sie "
+"dort ein Artikel- oder Bewertungs-Widget hinzu."
+
+#: inc/backend.php:591
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: inc/widgets.php:8 inc/widgets.php:20 inc/widgets.php:81
+msgid "eBay Items"
+msgstr "eBay Artikel"
+
+#: inc/widgets.php:10
+msgid "Use this Widget to display your eBay Items for examle in the Sidebar."
+msgstr ""
+"Nutzen Sie dieses Widget um Ihre Artikel z.B. als Slideshow in der "
+"Seitenleiste anzeigen zu lassen."
+
+#: inc/widgets.php:51 inc/widgets.php:259
+msgid "Invalid eBay Username given."
+msgstr "Keinen oder ungültigen eBay Benutzernamen angegeben."
+
+#: inc/widgets.php:118 inc/widgets.php:294
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: inc/widgets.php:142 inc/widgets.php:306
+msgid "Style"
+msgstr "Style"
+
+#: inc/widgets.php:147
+msgid "Slider vertical"
+msgstr "Slider vertikal"
+
+#: inc/widgets.php:148
+msgid "Slider horizontal"
+msgstr "Slider horizontal"
+
+#: inc/widgets.php:149
+msgid "Itemgallery"
+msgstr "Artikelgallerie"
+
+#: inc/widgets.php:227 inc/widgets.php:240 inc/widgets.php:281
+msgid "eBay Feedback"
+msgstr "eBay Bewertungen"
+
+#: inc/widgets.php:229
+msgid "Use this Widget to add eBay-Feedback-Bagdes to your Sidebar."
+msgstr ""
+"Nutzen Sie dieses Widget um Ihre Bewertungen als Badge in der Seitenleiste "
+"anzeigen zu lassen."
+
+#: inc/widgets.php:254 inc/widgets.php:255
+#, php-format
+msgid "Auctions and Feedback of %s"
+msgstr "Auktionen and Bewertungen von %s"
+
+#: inc/widgets.php:330
+msgid "Preview"
+msgstr "Vorschau"
+
+#: inc/frontend.php:64
+#, php-format
+msgid "Auctions & Feedback from %s"
+msgstr "Auktionen & Bewertungen von %s"
+
+#. Name of the plugin
+msgid "salessurvey Auction Plugin for eBay"
+msgstr "salessurvey Auktions Plugin für eBay"
+
+#. Description of the plugin
+msgid ""
+"This plugin gives you the ability to show your on eBay listed items on your "
+"WordPress in realtime using various display templates like listings, article-"
+"sliders or as an article-gallery. You are also able to embed feedback-badges "
+"on your sidebar using <a href=\"widgets.php\">Widgets</a>."
+msgstr ""
+"Dieses Plugin verschafft dir die Möglichkeit, deine auf eBay gelisteten "
+"Artikel und auch Bewertungen in Echtzeit auf deiner WordPress Seite "
+"anzuzeigen. Es stehen verschiedene Möglichkeiten zur Implementation wie "
+"Bewertungs-Badges, Shop-Listings, Artikel-Slider oder Artikel-Gallerie zur "
+"Verfügung. Ebenso kannst du <a href=\"widgets.php\">Widgets</a> in die "
+"Seitenleiste hinzufügen."
+
+#. URI of the plugin
+msgid "https://www.salessurvey.de/"
+msgstr "https://www.salessurvey.de/"
+
+#. Author of the plugin
+msgid "Tommy Haas"
+msgstr "Tommy Haas"
+
+#. Author URI of the plugin
+msgid "https://www.salessurvey.de"
+msgstr "https://www.salessurvey.de"

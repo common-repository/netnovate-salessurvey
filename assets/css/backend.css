@@ -1,0 +1,87 @@
+.pull-left{
+	float:left;
+}
+
+.ss_template{
+	opacity: 0.50;
+	filter: alpha(opacity=50);
+	border:1px solid transparent;
+	padding:6px 5px;
+	background:#E9E9E9;
+	margin:0 6px 10px 6px;
+	border:1px solid #D4D4D4;
+	cursor:pointer;
+}
+
+.ss_template_active {
+	opacity: 1;
+	filter: alpha(opacity=100);
+	background:#D6D6D6;
+	border:1px solid #999999;
+}
+
+#ss_meta_options .control-group{
+	display:block;
+	clear:left;
+	margin-top:6px;
+}
+
+#ss_meta_options label{
+	display: block; 
+	padding: 3px 3px 3px 15px;
+	float: left;
+	width: 160px;
+	font-weight: bold;
+	
+}		
+
+
+div.ss-tooltip {
+	display: inline-block;
+	padding: 0 6px;
+	text-decoration: none;
+	cursor: help;
+	background: #FAFAFA;
+	color: #333333;
+	border: 1px solid #DDDDDD;
+	border-radius: 50%;
+}
+
+#ss-tooltip-active {
+	position: absolute;
+	max-width: 400px;
+	border: 1px solid #333;
+	background-color: #333;
+	border-radius: 3px;
+	padding: 3px 10px;
+	color: #FFF;
+}
+
+.feeback-badge-codebox, .widget-codebox{
+	background:#efefef; 
+	padding:7px 10px; 
+	border:1px solid #cfcfcf;
+	display:inline-block;
+	border-radius: 3px;
+	font-weight:bold;
+	font-size:0.9em;
+}
+
+.widget-codebox{
+	margin-top:10px;
+	min-width:300px;
+	text-align:center;
+	font-size:1.2em;
+	padding:10px;
+}
+
+.btn-clipboard{
+	vertical-align:middle !important;
+	margin-left:4px !important;
+}
+
+.ss-widget-container label{
+	font-weight:bold;
+	margin:10px 0 5px 0;
+	display:block;
+}

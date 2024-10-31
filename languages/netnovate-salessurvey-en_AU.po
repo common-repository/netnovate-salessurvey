@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: salessurvey Auction Plugin for eBay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-14 09:42+0000\n"
+"PO-Revision-Date: 2019-05-14 09:42+0000\n"
+"Last-Translator: admin <th@netnovate.com>\n"
+"Language-Team: English (Australia)\n"
+"Language: en_AU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: inc/backend.php:12
+msgid "salessurvey Auctions Plugin for eBay"
+msgstr ""
+
+#: inc/backend.php:16
+msgid "Germany"
+msgstr ""
+
+#: inc/backend.php:18
+msgid "Austria"
+msgstr ""
+
+#: inc/backend.php:19
+msgid "Switzerland"
+msgstr ""
+
+#: inc/backend.php:33
+msgid "Auctions & Feedback"
+msgstr ""
+
+#: inc/backend.php:34
+msgid "Auctions"
+msgstr ""
+
+#: inc/backend.php:35
+msgid "Feedback"
+msgstr ""
+
+#: inc/backend.php:38
+msgid "Small"
+msgstr ""
+
+#: inc/backend.php:39
+msgid "Medium"
+msgstr ""
+
+#: inc/backend.php:40
+msgid "Large"
+msgstr ""
+
+#: inc/backend.php:41
+msgid "Very Large"
+msgstr ""
+
+#: inc/backend.php:44
+msgid "Items Ending First"
+msgstr ""
+
+#: inc/backend.php:45
+msgid "Best Match"
+msgstr ""
+
+#: inc/backend.php:46
+msgid "New Items First"
+msgstr ""
+
+#: inc/backend.php:47
+msgid "Highest Price Items First"
+msgstr ""
+
+#: inc/backend.php:48
+msgid "Lowest Price Items First"
+msgstr ""
+
+#: inc/backend.php:85 inc/backend.php:305
+msgid "Please set <b>eBay Username</b> first"
+msgstr ""
+
+#: inc/backend.php:119 inc/backend.php:572 inc/backend.php:583
+msgid "salessurvey Auctions Plugin"
+msgstr ""
+
+#: inc/backend.php:157 inc/backend.php:497 inc/widgets.php:124
+#: inc/widgets.php:300
+msgid "eBay Username"
+msgstr ""
+
+#: inc/backend.php:160
+msgid "Refresh"
+msgstr ""
+
+#: inc/backend.php:166
+msgid "Auctions Widgets"
+msgstr ""
+
+#: inc/backend.php:167
+msgid "Feedback-Badges"
+msgstr ""
+
+#: inc/backend.php:174
+msgid "Select Template:"
+msgstr ""
+
+#: inc/backend.php:178
+msgid "Shop-Widget"
+msgstr ""
+
+#: inc/backend.php:182
+msgid "Item-Slider <br/>(horizontal)"
+msgstr ""
+
+#: inc/backend.php:186
+msgid "Item-Slider <br/>(vertical)"
+msgstr ""
+
+#: inc/backend.php:190
+msgid "Item-Gallery<br/>Widget <br/>"
+msgstr ""
+
+#: inc/backend.php:196 inc/backend.php:319 inc/backend.php:334
+#: inc/backend.php:349 inc/backend.php:368 inc/backend.php:384
+#: inc/backend.php:399 inc/backend.php:414 inc/backend.php:434
+#: inc/backend.php:449 inc/backend.php:464
+msgid "Code:"
+msgstr ""
+
+#: inc/backend.php:197
+msgid ""
+"Place the following code within the content editor to specify where the "
+"widget will be shown."
+msgstr ""
+
+#: inc/backend.php:201 inc/backend.php:324 inc/backend.php:339
+#: inc/backend.php:354 inc/backend.php:373 inc/backend.php:389
+#: inc/backend.php:404 inc/backend.php:419 inc/backend.php:439
+#: inc/backend.php:454 inc/backend.php:469
+msgid "Copy"
+msgstr ""
+
+#: inc/backend.php:209
+msgid "Settings:"
+msgstr ""
+
+#: inc/backend.php:213 inc/backend.php:498 inc/widgets.php:130
+msgid "eBay Website"
+msgstr ""
+
+#: inc/backend.php:223
+msgid "This is the eBay website where your items are usually listed."
+msgstr ""
+
+#: inc/backend.php:227 inc/widgets.php:159
+msgid "Sort Order"
+msgstr ""
+
+#: inc/backend.php:236
+msgid "Set sort order of displayed items here."
+msgstr ""
+
+#: inc/backend.php:240
+msgid "Display"
+msgstr ""
+
+#: inc/backend.php:252 inc/widgets.php:171
+msgid "Tile Size"
+msgstr ""
+
+#: inc/backend.php:261
+msgid "Set size of item tiles."
+msgstr ""
+
+#: inc/backend.php:265 inc/widgets.php:183
+msgid "Widget Height"
+msgstr ""
+
+#: inc/backend.php:268
+msgid "Define display height of widget here"
+msgstr ""
+
+#: inc/backend.php:272 inc/widgets.php:189
+msgid "Number of Items"
+msgstr ""
+
+#: inc/backend.php:275
+msgid "Set the number of displayed items per page (max. 100)"
+msgstr ""
+
+#: inc/backend.php:279
+msgid "Frame"
+msgstr ""
+
+#: inc/backend.php:285
+msgid "Framecolor"
+msgstr ""
+
+#: inc/backend.php:291
+msgid "Refresh Preview"
+msgstr ""
+
+#: inc/backend.php:296
+msgid "Preview:"
+msgstr ""
+
+#: inc/backend.php:311
+msgid ""
+"Please copy the code shown below each badge and paste it into content editor "
+"to that position where you want to show the badge."
+msgstr ""
+
+#: inc/backend.php:312
+msgid "Horizontal Banner"
+msgstr ""
+
+#: inc/backend.php:361
+msgid "Squared"
+msgstr ""
+
+#: inc/backend.php:427
+msgid "Round"
+msgstr ""
+
+#: inc/backend.php:496
+msgid "Global Settings"
+msgstr ""
+
+#: inc/backend.php:506
+msgid "These values use to be default on every added widget"
+msgstr ""
+
+#: inc/backend.php:518
+msgid "EBAY-US"
+msgstr "EBAY-AU"
+
+#: inc/backend.php:527
+msgid "Please set your default eBay Website"
+msgstr ""
+
+#: inc/backend.php:543
+msgid "Set your eBay Username, this one is used by default in all widgets."
+msgstr ""
+
+#: inc/backend.php:560
+msgid "Settings"
+msgstr ""
+
+#: inc/backend.php:561
+msgid "Rate Plugin"
+msgstr ""
+
+#: inc/backend.php:572
+msgid "salessurvey Auctions"
+msgstr ""
+
+#: inc/backend.php:584
+msgid ""
+"Please use the \"salessurvey auctions plugin\" box below content editor to "
+"add auctions- or feedback-widgets to your pages or posts."
+msgstr ""
+
+#: inc/backend.php:585
+msgid ""
+"In case you want to add a widget into sidebar, please configure that under "
+"\"Appearance\" -> \"<a href=\"widgets.php\">Widgets</a>\"."
+msgstr ""
+
+#: inc/backend.php:591
+msgid "Save Settings"
+msgstr ""
+
+#: inc/widgets.php:8 inc/widgets.php:20 inc/widgets.php:81
+msgid "eBay Items"
+msgstr ""
+
+#: inc/widgets.php:10
+msgid "Use this Widget to display your eBay Items for examle in the Sidebar."
+msgstr ""
+
+#: inc/widgets.php:51 inc/widgets.php:259
+msgid "Invalid eBay Username given."
+msgstr ""
+
+#: inc/widgets.php:118 inc/widgets.php:294
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets.php:142 inc/widgets.php:306
+msgid "Style"
+msgstr ""
+
+#: inc/widgets.php:147
+msgid "Slider vertical"
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "Slider horizontal"
+msgstr ""
+
+#: inc/widgets.php:149
+msgid "Itemgallery"
+msgstr ""
+
+#: inc/widgets.php:227 inc/widgets.php:240 inc/widgets.php:281
+msgid "eBay Feedback"
+msgstr ""
+
+#: inc/widgets.php:229
+msgid "Use this Widget to add eBay-Feedback-Bagdes to your Sidebar."
+msgstr ""
+
+#: inc/widgets.php:254 inc/widgets.php:255
+#, php-format
+msgid "Auctions and Feedback of %s"
+msgstr ""
+
+#: inc/widgets.php:330
+msgid "Preview"
+msgstr ""
+
+#: inc/frontend.php:64
+#, php-format
+msgid "Auctions & Feedback from %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "salessurvey Auction Plugin for eBay"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin gives you the ability to show your on eBay listed items on your "
+"WordPress in realtime using various display templates like listings, article-"
+"sliders or as an article-gallery. You are also able to embed feedback-badges "
+"on your sidebar using <a href=\"widgets.php\">Widgets</a>."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.salessurvey.de/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tommy Haas"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.salessurvey.de"
+msgstr ""
